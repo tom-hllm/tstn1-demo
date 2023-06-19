@@ -1,3 +1,3 @@
 #!/usr/bien/env python3
-print("coucou")
+print("coucou !")
 
